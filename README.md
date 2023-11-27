@@ -1,5 +1,7 @@
 ## 三小時Python爬蟲與文字雲製作課程
 ### 講師：何敏煌
+
+Colab連結：https://colab.research.google.com/drive/1_7yBwpW0cc6YLlkrRH0DXoH40l28wnDI?usp=sharing
 ----
 本課程可以直接使用 colab.research.google.com 進行練習，或
 在本機執行：請安裝以下軟體：
